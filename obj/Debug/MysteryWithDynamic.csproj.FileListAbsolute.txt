@@ -1,0 +1,14 @@
+C:\UBS\dev\Testing\MysteryWithDynamic\bin\Debug\MysteryWithDynamic.exe
+C:\UBS\dev\Testing\MysteryWithDynamic\bin\Debug\MysteryWithDynamic.pdb
+C:\UBS\dev\Testing\MysteryWithDynamic\bin\Debug\StructureMap.dll
+C:\UBS\dev\Testing\MysteryWithDynamic\bin\Debug\StructureMap.Net4.dll
+C:\UBS\dev\Testing\MysteryWithDynamic\obj\Debug\ResolveAssemblyReference.cache
+C:\UBS\dev\Testing\MysteryWithDynamic\obj\Debug\MysteryWithDynamic.exe
+C:\UBS\dev\Testing\MysteryWithDynamic\obj\Debug\MysteryWithDynamic.pdb
+C:\UBS\dev\Other\MysteryWithDynamicExample\obj\Debug\MysteryWithDynamic.exe
+C:\UBS\dev\Other\MysteryWithDynamicExample\obj\Debug\MysteryWithDynamic.pdb
+C:\UBS\dev\Other\MysteryWithDynamicExample\bin\Debug\MysteryWithDynamic.exe
+C:\UBS\dev\Other\MysteryWithDynamicExample\bin\Debug\MysteryWithDynamic.pdb
+C:\UBS\dev\Other\MysteryWithDynamicExample\bin\Debug\StructureMap.dll
+C:\UBS\dev\Other\MysteryWithDynamicExample\bin\Debug\StructureMap.Net4.dll
+C:\UBS\dev\Other\MysteryWithDynamicExample\obj\Debug\ResolveAssemblyReference.cache
